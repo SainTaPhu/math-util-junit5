@@ -30,7 +30,7 @@ public class MathUtilTest {
             {3,6},
             {4,24},
             {5,120},
-            {5,720}
+            {6,720}
         };
     }
     @ParameterizedTest
